@@ -1,0 +1,3 @@
+Información Vehículos:
+{Tipo: CARRO, Placa: BXQ469, Marca: PORSCHE, Color: ROSADO, Valor Comercial: 30000000, Hora de Parqueo: Thu Nov 18 10:42:25 COT 2021, Piso: 0, Espacio: 0}
+{Tipo: MOTO, Placa: 3345444GF, Marca: LOCO, Color: NEGRO, Valor Comercial: 30000000, Hora de Parqueo: Thu Nov 18 10:40:53 COT 2021, Piso: 0, Espacio: 1}
