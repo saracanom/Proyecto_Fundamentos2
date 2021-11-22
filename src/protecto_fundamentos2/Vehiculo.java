@@ -121,7 +121,7 @@ public class Vehiculo {
             for (int j = 0; j < vehiculos[i].length; j ++) {
                 
                 if (vehiculos[i][j] != null && c.equals(vehiculos[i][j].getColor())) {
-                    String infoIndividual = System.lineSeparator() + vehiculos[i][j].toString();
+                    String infoIndividual = System.lineSeparator() + vehiculos[i][j].toString() + ", Piso: " + i + ", Espacio: " + j + "}";
                     colorIgual = colorIgual + infoIndividual;    
                 } 
             }
